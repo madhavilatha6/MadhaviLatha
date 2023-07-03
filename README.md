@@ -25,5 +25,25 @@
   <code> <img height="50" src="https://whatisdbms.com/wp-content/uploads/2022/03/Database-mysql.png"> </code>
   <code> <img height="50" src="https://play-lh.googleusercontent.com/erU9Hj8_nNsWnyJgFks0p0jdpu769mbv10SjH45JnZshNV_eEITl3RBeqPgCfKtD0Ghd"> </code>
 
-  <img align='right' src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="250" height="210">
+
+  <tr align="left">
+    <td>
+      <img align='left' src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="250" height="210">
+    </td>
+  </tr>
+</table>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=madhavilatha6&label=Profile%20views&color=0e75b6&style=flat" alt="madhavilatha6" /> </p>
+
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhavilatha6" alt="madhavilatha6" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhavilatha6&show_icons=true&locale=en&layout=compact" alt="madhavilatha6" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhavilatha6&show_icons=true&locale=en" alt="madhavilatha6" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhavilatha6&" alt="madhavilatha6" /></p>
+
 
